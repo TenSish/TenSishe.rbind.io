@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2018/05/47-day-data-science-challenge/</loc>
+    <loc>https://TenSishe.rbind.io/2018/05/47-day-data-science-challenge/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/archives/</loc>
+    <loc>https://TenSishe.rbind.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/data-science-challenge/</loc>
+    <loc>https://TenSishe.rbind.io/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://TenSishe.rbind.io/tags/data-science-challenge/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://TenSishe.rbind.io/post/</loc>
+    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://TenSishe.rbind.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TenSishe.rbind.io/tags/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

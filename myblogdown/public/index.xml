@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science </title>
-    <link>/</link>
+    <link>https://TenSishe.rbind.io/</link>
     <description>Recent content on Data Science </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://TenSishe.rbind.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>47-Day Data Science Challenge</title>
-      <link>/2018/05/47-day-data-science-challenge/</link>
+      <link>https://TenSishe.rbind.io/2018/05/47-day-data-science-challenge/</link>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/05/47-day-data-science-challenge/</guid>
+      <guid>https://TenSishe.rbind.io/2018/05/47-day-data-science-challenge/</guid>
       <description>“The Journey of a thousand miles begin with one step” - Lao Tzu
 Yay, I finally started a blog!
 My name is Tenzin Sishe, and I am an aspiring Data Scientist. My interests include Data Science, technology, traveling, photography, meditation, philosophy, cooking, sci-fi movies/shows and the list goes on. I graduated with B.A in Psychology and a minor in Gen-Science. Coming from a psychology background, I’ve learned to appreciate the value of data and how it can be utilized to benefit our society.</description>
