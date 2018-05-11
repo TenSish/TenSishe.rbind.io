@@ -3,41 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://TenSishe.rbind.io/2018/05/47-day-data-science-challenge/</loc>
+    <loc>https://tenzinsishe.netlify.com/2018/05/linear-regression/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tenzinsishe.netlify.com/2018/05/47-day-data-science-challenge/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://TenSishe.rbind.io/archives/</loc>
+    <loc>https://tenzinsishe.netlify.com/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://TenSishe.rbind.io/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <loc>https://tenzinsishe.netlify.com/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://TenSishe.rbind.io/tags/data-science-challenge/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <loc>https://tenzinsishe.netlify.com/tags/data-science-challenge/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://TenSishe.rbind.io/post/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <loc>https://tenzinsishe.netlify.com/post/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://TenSishe.rbind.io/projects/</loc>
+    <loc>https://tenzinsishe.netlify.com/projects/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://TenSishe.rbind.io/tags/</loc>
-    <lastmod>2018-05-07T00:00:00+00:00</lastmod>
+    <loc>https://tenzinsishe.netlify.com/tags/</loc>
+    <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -35,11 +35,11 @@ $(document).ready(function() {
     {{ if .Site.DisqusShortname }}
       <script>
         var disqus_config = function () {
-          this.page.url = '{{ .Permalink }}';
+          this.page.url = 'https://tenzinsishe.netlify.com/';
           {{ if .Params.disqusIdentifier }}
-            this.page.identifier = '{{ .Params.disqusIdentifier }}';
+            this.page.identifier = 'https://tenzinsishe.netlify.com/';
           {{ else }}
-            this.page.identifier = '{{ .URL | relURL }}'
+            this.page.identifier = 'tenzinsishe-netlify-com'
           {{ end }}
         };
         (function() {
@@ -49,9 +49,9 @@ $(document).ready(function() {
             return;
           }
           var d = document, s = d.createElement('script');
-          var disqus_shortname = '{{ .Site.DisqusShortname }}';
-          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-
+          var disqus_shortname = 'tenzinsishe-netlify-com';
+          s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+//'https://tenzinsishe-netlify-com.disqus.com/embed.js'
           s.setAttribute('data-timestamp', +new Date());
           (d.head || d.body).appendChild(s);
         })();

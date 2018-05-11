@@ -8,7 +8,8 @@ tags: [Data Science Challenge]
 ---
 
 
-![my-image](/images/DS.png)
+![my-image](/images/DS.png) 
+
 
  “The Journey of a thousand miles begin with one step” 
                                                - Lao Tzu 
